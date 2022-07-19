@@ -1,0 +1,22 @@
+.App {
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  margin: auto;
+  margin-top: 0.5%;
+}
+
+.me-auto {
+  width: 58%;
+  display: flex;
+  justify-content: flex-end;
+  margin: 0px 0px 0px 10px;
+}
+
+.container {
+  margin-left: 2%;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+}
